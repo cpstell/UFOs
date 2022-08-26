@@ -15,7 +15,8 @@ The purpose of this project is to build a UFO webpage for a hypothetical client.
 
 ## Results
 
-![pic of Webage](./images/Webpage.png)
+![pic of Webpage](./static/css/images/Webpage.png)
+
 
 
 

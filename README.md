@@ -29,7 +29,7 @@ To use, type in the filter over the placeholder element and press the return but
 
 ## Summary
 
-### Drawback:
+### Drawbacks:
 
 Although the filters do work, the user must know specific dates, cities, states, countries, and shapes in order for it work correctly. Also, exact spelling with everything in lowerase is a must. For example, if you type "fresno" in the city filter it will work. If you capitalize "Fresno" you will not receive an output.
 
